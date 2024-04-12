@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-mongodb",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "duclv dev mern stack",
+  "main": "src/server.js",
+  "repository": "https://github.com/DUC-LV/nodejs-mongodb.git",
+  "author": "DucLV08 <duc080999@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
