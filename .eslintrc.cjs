@@ -15,7 +15,7 @@ module.exports = {
         'no-console': 0,
         'no-extra-boolean-cast': 0,
         'no-lonely-if': 1,
-        'no-unused-vars': 1,
+        'no-unused-vars': 'error',
         'no-trailing-spaces': 1,
         'no-multi-spaces': 1,
         'no-multiple-empty-lines': 1,
